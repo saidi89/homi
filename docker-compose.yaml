@@ -1,25 +1,100 @@
 services:
-  kazepak:
+  cungkring:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  kazepak1:
+  cungkring1:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  kazepak2:
+  cungkring2:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  kazepak3:
+  cungkring3:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  kazepak4:
+  cungkring4:
+    build: .
+    shm_size: 6gb
+    ports:
+      - "80:80"
+  cungkring5:
+    build: .
+    shm_size: 6gb
+    ports:
+      - "80:80"
+  cungkring6:
+    build: .
+    shm_size: 6gb
+    ports:
+      - "80:80"
+  cungkring7:
+    build: .
+    shm_size: 6gb
+    ports:
+      - "80:80"
+  cungkring8:
+    build: .
+    shm_size: 6gb
+    ports:
+      - "80:80"
+  cungkring9:
+    build: .
+    shm_size: 6gb
+    ports:
+      - "80:80"
+  cungkring10:
+    build: .
+    shm_size: 6gb
+    ports:
+      - "80:80"
+  cungkring11:
+    build: .
+    shm_size: 6gb
+    ports:
+      - "80:80"
+  cungkring12:
+    build: .
+    shm_size: 6gb
+    ports:
+      - "80:80"
+  cungkring13:
+    build: .
+    shm_size: 6gb
+    ports:
+      - "80:80"
+  cungkring14:
+    build: .
+    shm_size: 6gb
+    ports:
+      - "80:80"
+  cungkring15:
+    build: .
+    shm_size: 6gb
+    ports:
+      - "80:80"
+  cungkring16:
+    build: .
+    shm_size: 6gb
+    ports:
+      - "80:80"
+  cungkring17:
+    build: .
+    shm_size: 6gb
+    ports:
+      - "80:80"
+  cungkring18:
+    build: .
+    shm_size: 6gb
+    ports:
+      - "80:80"
+  cungkring19:
     build: .
     shm_size: 6gb
     ports:
