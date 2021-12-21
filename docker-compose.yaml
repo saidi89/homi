@@ -1,22 +1,26 @@
 services:
-  areyouok:
+  kazepak:
     build: .
+    shm_size: 6gb
     ports:
-      - 80:80
-  areyouok1:
+      - "80:80"
+  kazepak1:
     build: .
+    shm_size: 6gb
     ports:
-      - 80:80
-  areyouok2:
+      - "80:80"
+  kazepak2:
     build: .
+    shm_size: 6gb
     ports:
-      - 80:80
-  areyouok3:
+      - "80:80"
+  kazepak3:
     build: .
+    shm_size: 6gb
     ports:
-      - 80:80
-  areyouok4:
+      - "80:80"
+  kazepak4:
     build: .
+    shm_size: 6gb
     ports:
-      - 80:80
-     
+      - "80:80"
