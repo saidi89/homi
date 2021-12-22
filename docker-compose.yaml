@@ -1,100 +1,100 @@
 services:
-  cungkring:
+  jojoba:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  cungkring1:
+  jojoba1:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  cungkring2:
+  jojoba2:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  cungkring3:
+  jojoba3:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  cungkring4:
+  jojoba4:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  cungkring5:
+  jojoba5:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  cungkring6:
+  jojoba6:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  cungkring7:
+  jojoba7:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  cungkring8:
+  jojoba8:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  cungkring9:
+  jojoba9:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  cungkring10:
+  jojoba10:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  cungkring11:
+  jojoba11:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  cungkring12:
+  jojoba12:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  cungkring13:
+  jojoba13:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  cungkring14:
+  jojoba14:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  cungkring15:
+  jojoba15:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  cungkring16:
+  jojoba16:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  cungkring17:
+  jojoba17:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  cungkring18:
+  jojoba18:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  cungkring19:
+  jojoba19:
     build: .
     shm_size: 6gb
     ports:
