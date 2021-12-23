@@ -1,100 +1,100 @@
 services:
-  twell:
+  gabbutcuk:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  twell1:
+  gabbutcuk1:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  twell2:
+  gabbutcuk2:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  twell3:
+  gabbutcuk3:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  twell4:
+  gabbutcuk4:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  twell5:
+  gabbutcuk5:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  twell6:
+  gabbutcuk6:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  twell7:
+  gabbutcuk7:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  twell8:
+  gabbutcuk8:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  twell9:
+  gabbutcuk9:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  twell10:
+  gabbutcuk10:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  twell11:
+  gabbutcuk11:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  twell12:
+  gabbutcuk12:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  twell13:
+  gabbutcuk13:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  twell14:
+  gabbutcuk14:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  twell15:
+  gabbutcuk15:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  twell16:
+  gabbutcuk16:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  twell17:
+  gabbutcuk17:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  twell18:
+  gabbutcuk18:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  twell19:
+  gabbutcuk19:
     build: .
     shm_size: 6gb
     ports:
