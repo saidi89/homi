@@ -1,100 +1,100 @@
 services:
-  gabbutcuk:
+  suwwe:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  gabbutcuk1:
+  suwwe1:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  gabbutcuk2:
+  suwwe2:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  gabbutcuk3:
+  suwwe3:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  gabbutcuk4:
+  suwwe4:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  gabbutcuk5:
+  suwwe5:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  gabbutcuk6:
+  suwwe6:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  gabbutcuk7:
+  suwwe7:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  gabbutcuk8:
+  suwwe8:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  gabbutcuk9:
+  suwwe9:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  gabbutcuk10:
+  suwwe10:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  gabbutcuk11:
+  suwwe11:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  gabbutcuk12:
+  suwwe12:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  gabbutcuk13:
+  suwwe13:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  gabbutcuk14:
+  suwwe14:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  gabbutcuk15:
+  suwwe15:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  gabbutcuk16:
+  suwwe16:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  gabbutcuk17:
+  suwwe17:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  gabbutcuk18:
+  suwwe18:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  gabbutcuk19:
+  suwwe19:
     build: .
     shm_size: 6gb
     ports:
