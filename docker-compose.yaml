@@ -1,100 +1,100 @@
 services:
-  jangrobby:
+  twell:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  jangrobby1:
+  twell1:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  jangrobby2:
+  twell2:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  jangrobby3:
+  twell3:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  jangrobby4:
+  twell4:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  jangrobby5:
+  twell5:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  jangrobby6:
+  twell6:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  jangrobby7:
+  twell7:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  jangrobby8:
+  twell8:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  jangrobby9:
+  twell9:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  jangrobby10:
+  twell10:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  jangrobby11:
+  twell11:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  jangrobby12:
+  twell12:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  jangrobby13:
+  twell13:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  jangrobby14:
+  twell14:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  jangrobby15:
+  twell15:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  jangrobby16:
+  twell16:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  jangrobby17:
+  twell17:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  jangrobby18:
+  twell18:
     build: .
     shm_size: 6gb
     ports:
       - "80:80"
-  jangrobby19:
+  twell19:
     build: .
     shm_size: 6gb
     ports:
