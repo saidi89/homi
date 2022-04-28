@@ -1,101 +1,21 @@
 services:
-  suwwe:
+  youok:
     build: .
-    shm_size: 6gb
     ports:
-      - "80:80"
-  suwwe1:
+      - 80:80
+  youok1:
     build: .
-    shm_size: 6gb
     ports:
-      - "80:80"
-  suwwe2:
+      - 80:80
+  youok2:
     build: .
-    shm_size: 6gb
     ports:
-      - "80:80"
-  suwwe3:
+      - 80:80
+  youok3:
     build: .
-    shm_size: 6gb
     ports:
-      - "80:80"
-  suwwe4:
+      - 80:80
+  youok4:
     build: .
-    shm_size: 6gb
     ports:
-      - "80:80"
-  suwwe5:
-    build: .
-    shm_size: 6gb
-    ports:
-      - "80:80"
-  suwwe6:
-    build: .
-    shm_size: 6gb
-    ports:
-      - "80:80"
-  suwwe7:
-    build: .
-    shm_size: 6gb
-    ports:
-      - "80:80"
-  suwwe8:
-    build: .
-    shm_size: 6gb
-    ports:
-      - "80:80"
-  suwwe9:
-    build: .
-    shm_size: 6gb
-    ports:
-      - "80:80"
-  suwwe10:
-    build: .
-    shm_size: 6gb
-    ports:
-      - "80:80"
-  suwwe11:
-    build: .
-    shm_size: 6gb
-    ports:
-      - "80:80"
-  suwwe12:
-    build: .
-    shm_size: 6gb
-    ports:
-      - "80:80"
-  suwwe13:
-    build: .
-    shm_size: 6gb
-    ports:
-      - "80:80"
-  suwwe14:
-    build: .
-    shm_size: 6gb
-    ports:
-      - "80:80"
-  suwwe15:
-    build: .
-    shm_size: 6gb
-    ports:
-      - "80:80"
-  suwwe16:
-    build: .
-    shm_size: 6gb
-    ports:
-      - "80:80"
-  suwwe17:
-    build: .
-    shm_size: 6gb
-    ports:
-      - "80:80"
-  suwwe18:
-    build: .
-    shm_size: 6gb
-    ports:
-      - "80:80"
-  suwwe19:
-    build: .
-    shm_size: 6gb
-    ports:
-      - "80:80"
+      - 80:80
